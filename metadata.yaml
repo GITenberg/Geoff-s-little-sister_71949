@@ -1,0 +1,30 @@
+_repo: Geoff-s-little-sister_71949
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Smythe, Ernest
+    gutenberg_agent_id: '56469'
+    url: http://www.gutenberg.org/2009/agents/56469
+creator:
+  author:
+    agent_name: Garratt, Evelyn R.
+    alias: Garratt, Evelyn Rosalie
+    birthdate: 1854
+    gutenberg_agent_id: '56019'
+    url: http://www.gutenberg.org/2009/agents/56019
+description: ''
+gutenberg_issued: '2023-10-24'
+identifiers:
+  gutenberg: '71949'
+language: en
+pgterms:marc905: 20231019142221garratt
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+publication_note: '  $aIpswich :$bSmiths, Suitall, Ipswich., $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Geoff's little sister
+url: http://www.gutenberg.org/ebooks/71949
