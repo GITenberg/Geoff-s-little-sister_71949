@@ -5,6 +5,9 @@ contributor:
     agent_name: Smythe, Ernest
     gutenberg_agent_id: '56469'
     url: http://www.gutenberg.org/2009/agents/56469
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Garratt, Evelyn R.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '56019'
     url: http://www.gutenberg.org/2009/agents/56019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71949#Geoff-s-little-sister
 gutenberg_issued: '2023-10-24'
 identifiers:
   gutenberg: '71949'
